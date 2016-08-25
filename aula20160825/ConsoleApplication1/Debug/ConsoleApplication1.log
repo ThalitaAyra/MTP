@@ -1,0 +1,14 @@
+﻿Build started 25/08/2016 09:54:33.
+     1>Project "C:\Users\Thalita\MTP\aula20160825\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>c:\users\thalita\mtp\aula20160825\consoleapplication1\consoleapplication1.cpp(5): error C2013: missing '>'
+     1>c:\users\thalita\mtp\aula20160825\consoleapplication1\consoleapplication1.cpp(5): warning C4627: '#include <st>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\thalita\mtp\aula20160825\consoleapplication1\consoleapplication1.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "C:\Users\Thalita\MTP\aula20160825\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.20
